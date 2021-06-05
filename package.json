@@ -1,0 +1,21 @@
+{
+  "name": "onehundred",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cache-manager": "^3.4.3",
+    "cache-middleware": "^0.0.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-cache-middleware": "^1.0.1",
+    "http-errors": "~1.6.3",
+    "images-scraper": "^6.3.0",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "unirest": "^0.6.0"
+  }
+}
